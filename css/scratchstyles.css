@@ -1,0 +1,22 @@
+body {
+    background-color: #e2ffd2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+
+.bigbold {
+    font-weight: bold;
+    font-size: x-large;
+    font-style: normal;
+    color: orangered;
+    
+}
+
+.bold {
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+}
+.sub {
+    font-style: italic;
+}
